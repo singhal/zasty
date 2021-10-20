@@ -1,0 +1,322 @@
+SAMPLE_ID,VOUCHER,GENUS,SPECIES,mtDNA_LINEAGE,nDNA_LINEAGE,LOCATION,STATE,LAT,LON,ddRAD_SRA,cytb_NCBI
+NTMR_18324_Ct_alac,NTMR_18324,Ctenotus,alacer,alacer,,Arltunga,NT,-23.45,134.683333,,KJ504985.1
+NA_ABTC24115_Ct_alac,,Ctenotus,alacer,alacer,,MacDonnell Ranges,NT,,,,KJ505250.1
+NA_DLR0149_Ct_aria,,Ctenotus,ariadnae,ariadnae1,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,HQ332271.1
+NA_DLR0011_Ct_aria,,Ctenotus,ariadnae,ariadnae1,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,KJ505255.1
+CUMV_14811_Ct_aria,CUMV_14811,Ctenotus,ariadnae,ariadnae1,ariadnae,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,SAMN06709597,TBD
+CUMV_14812_Ct_aria,CUMV_14812,Ctenotus,ariadnae,ariadnae1,ariadnae,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,SAMN06709598,TBD
+SAMAR_35025_Ct_aria,SAMAR_35025,Ctenotus,ariadnae,ariadnae2,ariadnae,12k S Bloodweed Bore,SA,-26.95,140.95,SAMN06709741,TBD
+SAMAR_38117_Ct_aria,SAMAR_38117,Ctenotus,ariadnae,ariadnae2,ariadnae,1.5k SE Purni Bore,SA,-26.28333,136.1,SAMN06709750,TBD
+SAMAR_45960_Ct_aria,SAMAR_45960,Ctenotus,ariadnae,dux,ariadnae,8k NW Kunytjanu,SA,-26.615,129.3139,SAMN06709782,TBD
+WAMR_126380_Ct_atla,WAMR_126380,Ctenotus,atlas,atlas,,BUNGALBIN SANDPLAIN,WA,-30.252,119.792222,,GQ241585.1
+SAMR_57650_Ct_atla,SAMR_57650,Ctenotus,atlas,decaneurus4,atlas,23.5k NNE Sheoak Hill,SA,-33.186389,136.843889,SAMN06709912,KJ504994.1
+WAMR_145379_Ct_atla,WAMR_145379,Ctenotus,atlas,atlas,,GOONGARRIE STATION,WA,-29.844,120.959444,,KJ505258.1
+NA_ABTC10460_Ct_atla,,Ctenotus,atlas,atlas,,Officer Basin,WA,-29.967,123.7667,,KJ505829.1
+NA_ABTC10469_Ct_atla,,Ctenotus,atlas,atlas,,Officer Basin,WA,-29.967,123.7667,,KJ505830.1
+NA_ABTC10471_Ct_atla,,Ctenotus,atlas,atlas,,Officer Basin,WA,-29.967,123.7667,,KJ505831.1
+NA_ABTC10477_Ct_atla,,Ctenotus,atlas,atlas,,Officer Basin,WA,-29.967,123.7667,,KJ505832.1
+SAMR_45544_Ct_atla,SAMR_45544,Ctenotus,atlas,atlas,,6k NNE Inila Rockwater,SA,-31.73,133.4506,,KJ505833.1
+SAMR_45581_Ct_atla,SAMR_45581,Ctenotus,atlas,atlas,,25k WNW Inila Rockwater,SA,-31.741,133.1522,,KJ505834.1
+NA_ABTC41321_Ct_atla,,Ctenotus,atlas,atlas,,38k ENE Laverton,WA,,,,KJ505835.1
+NA_ABTC41322_Ct_atla,,Ctenotus,atlas,atlas,,38k ENE Laverton,WA,,,,KJ505836.1
+SAMR_31899_Ct_atla,SAMR_31899,Ctenotus,atlas,atlas,atlas,Pinjarra Dam,SA,-32.15,134.6317,SAMN20838065,KJ505837.1
+SAMR_20811_Ct_atla,SAMR_20811,Ctenotus,atlas,atlas,,Access Road to Stock Route,SA,-32.883,135.9833,,KJ505838.1
+SAMR_20812_Ct_atla,SAMR_20812,Ctenotus,atlas,atlas,,Access Road to Stock Route,SA,-32.883,135.9833,,KJ505839.1
+SAMR_29703_Ct_atla,SAMR_29703,Ctenotus,atlas,atlas,,"Canopus, Danggali CP",SA,-33.5,140.6667,,KJ505840.1
+SAMR_31881_Ct_atla,SAMR_31881,Ctenotus,atlas,atlas,,Tarcoola,SA,-30.912,134.0747,,KJ505842.1
+SAMR_37962_Ct_atla,SAMR_37962,Ctenotus,atlas,atlas,atlas,2.5k NW Iron Chieftain,SA,-33.167,137.1333,SAMN06709837,KJ505843.1
+SAMR_40719_Ct_atla,SAMR_40719,Ctenotus,atlas,atlas,,"Cooks North, Middleback Rngs",SA,-33.167,137.1333,,KJ505844.1
+SAMR_32080_Ct_atla,SAMR_32080,Ctenotus,atlas,atlas,atlas,5k SSW Immarna Siding,SA,-30.547,132.1378,SAMN20838066,KJ505845.1
+SAMR_32256_Ct_atla,SAMR_32256,Ctenotus,atlas,atlas,atlas,39k SW Halinor Lake,SA,-29.445,130.1744,SAMN06709823,KJ505846.1
+WAMR_113416_Ct_atla,WAMR_113416,Ctenotus,atlas,atlas,atlas,25k NE Queen Victoria Springs,WA,-30.225,123.6833,SAMN06709980,KJ505847.1
+WAMR_124885_Ct_atla,WAMR_124885,Ctenotus,atlas,atlas,,Bungalbin,WA,-30.4,119.6333,,KJ505848.1
+WAMR_126408_Ct_atla,WAMR_126408,Ctenotus,atlas,atlas,,Bungalbin,WA,-30.299,119.7358,,KJ505849.1
+WAMR_126428_Ct_atla,WAMR_126428,Ctenotus,atlas,atlas,atlas,Bungalbin,WA,-30.283,119.7603,SAMN06709995,KJ505850.1
+WAMR_126434_Ct_atla,WAMR_126434,Ctenotus,atlas,atlas,,Bungalbin,WA,-30.254,119.79,,KJ505851.1
+WAMR_97593_Ct_atla,WAMR_97593,Ctenotus,atlas,atlas,,15k N Bungalbin Hill,WA,-30.267,119.6167,,KJ505852.1
+WAMR_135111_Ct_atla,WAMR_135111,Ctenotus,atlas,atlas,,Bullabulling,WA,-30.856,120.8869,,KJ505853.1
+WAMR_135218_Ct_atla,WAMR_135218,Ctenotus,atlas,atlas,atlas,Jimberlana Hill,WA,-32.14,121.8444,SAMN06710009,KJ505854.1
+WAMR_135237_Ct_atla,WAMR_135237,Ctenotus,atlas,atlas,atlas,20k NNE Norseman,WA,-32.007,121.8308,SAMN06710010,KJ505855.1
+WAMR_136446_Ct_atla,WAMR_136446,Ctenotus,atlas,atlas,,Yuinmery Station,WA,-28.617,119.0667,,KJ505856.1
+WAMR_136457_Ct_atla,WAMR_136457,Ctenotus,atlas,atlas,atlas,Yuinmery Station,WA,-28.617,119.0667,SAMN06710014,KJ505857.1
+WAMR_136458_Ct_atla,WAMR_136458,Ctenotus,atlas,atlas,,Yuinmery Station,WA,-28.617,119.0667,,KJ505858.1
+SAMR_55208_Ct_atla,SAMR_55208,Ctenotus,atlas,atlas,atlas,7.2k WNW Gluepot HS,SA,-33.741,140.0483,SAMN06709897,KJ505859.1
+SAMR_55210_Ct_atla,SAMR_55210,Ctenotus,atlas,atlas,,7.2k WNW Gluepot HS,SA,-33.741,140.0483,,KJ505860.1
+SAMR_59466_Ct_atla,SAMR_59466,Ctenotus,atlas,atlas,,64.9k NW Maralinga,SA,-29.752,131.0964,,KJ505861.1
+SAMR_59467_Ct_atla,SAMR_59467,Ctenotus,atlas,atlas,,64.9k NW Maralinga,SA,-29.752,131.0964,,KJ505862.1
+SAMR_60360_Ct_atla,SAMR_60360,Ctenotus,atlas,atlas,atlas,137.2k W Oak Valley,SA,-29.499,129.3319,SAMN06709915,KJ505864.1
+SAMR_61453_Ct_atla,SAMR_61453,Ctenotus,atlas,atlas,,8.3k NNW Uworra,SA,-31.8896,133.326,,KJ505865.1
+NA_ABTC92338_Ct_atla,,Ctenotus,atlas,atlas,,"Phillips Catch, Taylorville Station",SA,-33.83,139.9588,,KJ505866.1
+SAMR_57397_Ct_atla,SAMR_57397,Ctenotus,atlas,atlas,atlas,9.5k SSW Murninnie,SA,-33.393889,137.342778,SAMN06709911,KJ505867.1
+SAMR_57683_Ct_atla,SAMR_57683,Ctenotus,atlas,atlas,,3k ESE Sheoak Hill,SA,-33.415278,136.7775,,KJ505868.1
+SAMR_57398_Ct_atla,SAMR_57398,Ctenotus,atlas,atlas,,9.5k SSW Murninnie,SA,-33.393889,137.342778,,KJ505870.1
+SAMR_56623_Ct_atla,SAMR_56623,Ctenotus,atlas,atlas,,4.5k ENE Corrobinnie Hill,SA,-32.967,135.7819,,KJ505871.1
+SAMR_37942_Ct_atla,SAMR_37942,Ctenotus,atlas,atlas,atlas,"Munyaroo CP, 8k SW Moonabie HS",SA,-33.294,137.2083,SAMN06709836,TBD
+SAMR_56616_Ct_atla,SAMR_56616,Ctenotus,atlas,atlas,atlas,1.2k E Corrobinnie Hill,SA,-32.985,135.7517,SAMN06709910,TBD
+SAMR_31859_Ct_atla,SAMR_31859,Ctenotus,atlas,atlas,atlas,10k S Mt Christie Siding,SA,-30.615,133.2322,SAMN06709822,KJ505841.1
+SAMR_60359_Ct_atla,SAMR_60359,Ctenotus,atlas,atlas,,137.2k W Oak Valley,SA,-29.499,129.3319,,KJ505863.1
+WAMR_119683_Ct_deca,WAMR_119683,Ctenotus,decaneurus,decaneurus1,decaneurus1,EMMA GORGE,WA,-15.833,128.033333,SAMN06709987,KJ505001.1
+NTMR_17896_Ct_deca,NTMR_17896,Ctenotus,decaneurus,decaneurus3,,Yinberri Hill,NT,,,,KJ505002.1
+NTMR_22189_Ct_deca,NTMR_22189,Ctenotus,decaneurus,decaneurus4,decaneurus4,Litchfield NP,NT,-13.414,130.8967,TBD,KJ505883.1
+NA_CCM0978_Ct_deca,,Ctenotus,decaneurus,decaneurus1,decaneurus1,"Baitbox Hill, Theda, site 8, 10km N of HS",WA,-14.73666,126.46609,SAMN06709635,TBD
+NA_CCM2961_Ct_deca,,Ctenotus,decaneurus,decaneurus2,,East Baines Crossing,NT,-15.97138,130.29541,,TBD
+NA_PMO167_Ct_deca,,Ctenotus,decaneurus,rhabdotus,,Near Wire Springs,WA,-17.64564,125.01558,,TBD
+NA_CCM5506_Ct_deca,,Ctenotus,decaneurus,,,"Site 25B, Nitmiluk NP",,-14.016912,132.274223,,TBD
+NA_CCM6334_Ct_deca,,Ctenotus,decaneurus,,,MT Valley,,-14.13549,133.84216,,TBD
+NA_CCM6337_Ct_deca,,Ctenotus,decaneurus,,,MT Valley,,-14.13549,133.84216,,TBD
+NA_CCM6484_Ct_deca,,Ctenotus,decaneurus,,xenopleura,Litchfield NP Daly/ River Road,,-13.52229,130.83438,TBD,TBD
+WAMR_090630_Ct_duri,WAMR_090630,Ctenotus,duricola,duricola,,WOODSTOCK STATION,WA,-21.61,118.9622,,KJ505300.1
+WAMR_099137_Ct_duri,WAMR_099137,Ctenotus,duricola,duricola,,WOODSTOCK STATION,WA,-21.609,118.974444,,KJ505301.1
+WAMR_099165_Ct_duri,WAMR_099165,Ctenotus,duricola,pallasotus,duricola,WOODSTOCK STATION,WA,-21.609,118.974444,SAMN06709959,KJ505302.1
+WAMR_102494_Ct_duri,WAMR_102494,Ctenotus,duricola,pallasotus,pallasotus,BARLEE RANGE NATURE RESER,WA,-23.389,115.8867,SAMN06709964,KJ505304.1
+WAMR_102554_Ct_duri,WAMR_102554,Ctenotus,duricola,pallasotus,,BARLEE RANGE NATURE RESER,WA,-23.044,115.812222,,KJ505305.1
+WAMR_102561_Ct_duri,WAMR_102561,Ctenotus,duricola,pallasotus,,BARLEE RANGE NATURE RESER,WA,-23.096,116.009722,,KJ505306.1
+WAMR_108604_Ct_duri,WAMR_108604,Ctenotus,duricola,pallasotus,,"MOUNT DEMPSTER ""3KM S OF",WA,-21.8,116.25,,KJ505307.1
+WAMR_110668_Ct_duri,WAMR_110668,Ctenotus,duricola,pallasotus,pallasotus,LEARMONTH AIR WEAPONS RAN,WA,-22.403,113.843333,SAMN06709975,KJ505309.1
+WAMR_117341_Ct_duri,WAMR_117341,Ctenotus,duricola,pallasotus,,HOPE DOWNS,WA,-22.99,119.091667,,KJ505313.1
+WAMR_119931_Ct_duri,WAMR_119931,Ctenotus,duricola,pallasotus,pallasotus,MT BROCKMAN,WA,-22.467,117.3,SAMN06709989,KJ505315.1
+WAMR_120737_Ct_duri,WAMR_120737,Ctenotus,duricola,duricola,,BOODARIE HILL,WA,-20.4,118.516667,,KJ505316.1
+WAMR_121997_Ct_duri,WAMR_121997,Ctenotus,duricola,pallasotus,,WEELI WOLLI SPRING,WA,-22.917,119.2167,,KJ505317.1
+WAMR_125030_Ct_duri,WAMR_125030,Ctenotus,duricola,pallasotus,,YANDICOOGINA,WA,-22.721,118.990556,,KJ505318.1
+WAMR_127794_Ct_duri,WAMR_127794,Ctenotus,duricola,pallasotus,,MOUNT TOM PRICE MINE,WA,,,,KJ505319.1
+WAMR_131006_Ct_duri,WAMR_131006,Ctenotus,duricola,pallasotus,,MILLSTREAM-CHICHESTER NP,WA,-21.138,117.1158,,KJ505320.1
+WAMR_135361_Ct_duri,WAMR_135361,Ctenotus,duricola,pallasotus,,MT BROCKMAN STATION,WA,-22.311,117.3219,,KJ505322.1
+WAMR_139391_Ct_duri,WAMR_139391,Ctenotus,duricola,duricola,duricola,MEENTHEENA,WA,-21.204,120.4731,SAMN06710020,KJ505323.1
+WAMR_139394_Ct_duri,WAMR_139394,Ctenotus,duricola,pallasotus,duricola,MEENTHEENA,WA,-21.351,120.4469,SAMN06710021,KJ505324.1
+WAMR_139423_Ct_duri,WAMR_139423,Ctenotus,duricola,pallasotus,pallasotus,MOUNT MINNIE,WA,-21.373,115.3733,SAMN06710024,KJ505325.1
+WAMR_139566_Ct_duri,WAMR_139566,Ctenotus,duricola,pallasotus,,GIRALIA,WA,-22.776,114.3042,,KJ505326.1
+WAMR_140717_Ct_duri,WAMR_140717,Ctenotus,duricola,duricola,,HOPE DOWNS,WA,-22.674,119.416111,,KJ505327.1
+WAMR_141296_Ct_duri,WAMR_141296,Ctenotus,duricola,pallasotus,pallasotus,CAPE PRESTON,WA,-21.066,116.1492,SAMN06710032,KJ505328.1
+WAMR_145257_Ct_duri,WAMR_145257,Ctenotus,duricola,pallasotus,,MOUNT TOM PRICE MINE,WA,-22.795,117.790833,,KJ505329.1
+WAMR_145535_Ct_duri,WAMR_145535,Ctenotus,duricola,duricola,,PORT HEDLAND,WA,-20.91,118.68,,KJ505330.1
+WAMR_145630_Ct_duri,WAMR_145630,Ctenotus,duricola,duricola,duricola,PORT HEDLAND,WA,-20.78,118.64,SAMN06710038,KJ505331.1
+WAMR_146660_Ct_duri,WAMR_146660,Ctenotus,duricola,duricola,,PORT HEDLAND,WA,-21.325,118.8633,,KJ505334.1
+WAMR_152697_Ct_duri,WAMR_152697,Ctenotus,duricola,duricola,,CHICHESTER RANGE,WA,-22.083,118.6833,,KJ505335.1
+WAMR_154261_Ct_duri,WAMR_154261,Ctenotus,duricola,duricola,,MUNJINA ROADHOUSE,WA,-22.068,118.9953,,KJ505336.1
+WAMR_154565_Ct_duri,WAMR_154565,Ctenotus,duricola,duricola,,NEWMAN,WA,-23.379,120.105278,,KJ505337.1
+WAMR_154573_Ct_duri,WAMR_154573,Ctenotus,duricola,duricola,,NEWMAN,WA,-23.377,120.1103,,KJ505338.1
+WAMR_157067_Ct_duri,WAMR_157067,Ctenotus,duricola,duricola,duricola,MUNJINA ROADHOUSE,WA,-22.837,119.3972,SAMN06710056,KJ505339.1
+WAMR_157566_Ct_duri,WAMR_157566,Ctenotus,duricola,pallasotus,pallasotus,PANNAWONICA,WA,-21.674,115.8892,SAMN06710061,KJ505340.1
+WAMR_166170_Ct_duri,WAMR_166170,Ctenotus,duricola,duricola,,NULLAGINE,WA,-21.954,120.1219,,KJ505358.1
+WAMR_166508_Ct_duri,WAMR_166508,Ctenotus,duricola,duricola,,WOODIE WOODIE,WA,-21.659,121.2417,,KJ505359.1
+WAMR_157132_Ct_pian,WAMR_157132,Ctenotus,duricola,duricola,duricola,ROY HILL,WA,-22.686,120.2467,SAMN06710057,KJ505579.1
+WAMR_145645_Ct_duri,WAMR_145645,Ctenotus,duricola,duricola,,PORT HEDLAND,WA,-22.34,119,,KJ505332.1
+WAMR_131755_Ct_duri,WAMR_131755,Ctenotus,duricola,pallasotus,,WEST ANGELAS,WA,-22.911,118.6406,,KJ505321.1
+WAMR_119845_Ct_duri,WAMR_119845,Ctenotus,duricola,pallasotus,,YANDICOOGINA,WA,-22.717,119.016667,,KJ505314.1
+WAMR_102159_Ct_duri,WAMR_102159,Ctenotus,duricola,pallasotus,pallasotus,MT WINDELL,WA,-22.599,118.6389,SAMN06709961,KJ505303.1
+WAMR_110053_Ct_duri,WAMR_110053,Ctenotus,duricola/piankai,pallasotus,,DRC05,WA,-20.94,117.035,,KJ505288.1
+WAMR_158107_Ct_duri,WAMR_158107,Ctenotus,duricola/piankai,duricola,duricola,RHNW03,WA,-22.467,119.023,SAMN06710064,KJ505290.1
+WAMR_159964_Ct_duri,WAMR_159964,Ctenotus,duricola/piankai,duricola,,DRE05,WA,-20.48,118.04,,KJ505291.1
+WAMR_160163_Ct_duri,WAMR_160163,Ctenotus,duricola/piankai,duricola,,NW08,WA,-21.48,120.091,,KJ505292.1
+WAMR_161378_Ct_duri,WAMR_161378,Ctenotus,duricola/piankai,duricola,,PHYC11,WA,-20.852,119.593,,KJ505293.1
+WAMR_161625_Ct_duri,WAMR_161625,Ctenotus,duricola/piankai,duricola,,PHYW11,WA,-20.324,118.922,,KJ505294.1
+WAMR_163003_Ct_duri,WAMR_163003,Ctenotus,duricola/piankai,pallasotus,,WYW01,WA,-22.104,115.568,,KJ505295.1
+WAMR_170219_Ct_duri,WAMR_170219,Ctenotus,duricola/piankai,pallasotus,,TCMBW05,WA,-22.72,117.511,,KJ505296.1
+WAMR_170489_Ct_duri,WAMR_170489,Ctenotus,duricola/piankai,duricola,,BDRN11,WA,-22.516,120.659,,KJ505297.1
+WAMR_170638_Ct_duri,WAMR_170638,Ctenotus,duricola/piankai,pallasotus,,OYW08,WA,-21.732,115.807,,KJ505298.1
+WAMR_170880_Ct_duri,WAMR_170880,Ctenotus,duricola/piankai,duricola,duricola,MBE11,WA,-21.237,119.408,SAMN06710086,KJ505299.1
+WAMR_110187_Ct_duri,WAMR_110187,Ctenotus,duricola/piankai,pallasotus,,PW11,WA,-21.54,117.057,,KJ505308.1
+WAMR_111584_Ct_duri,WAMR_111584,Ctenotus,duricola/piankai,duricola,pallasotus,TCMBE07,WA,-22.716,118.263,SAMN06709977,KJ505310.1
+WAMR_111876_Ct_duri,WAMR_111876,Ctenotus,duricola/piankai,duricola,,BDRS01,WA,-23.392,120.522,,KJ505311.1
+WAMR_111889_Ct_duri,WAMR_111889,Ctenotus,duricola/piankai,pallasotus,,BDRS07,WA,-23.381,120.252,,KJ505312.1
+WAMR_159950_Ct_duri,WAMR_159950,Ctenotus,duricola/piankai,duricola,,DRE11,WA,-20.95,117.85,,KJ505342.1
+WAMR_160095_Ct_duri,WAMR_160095,Ctenotus,duricola/piankai,duricola,duricola,NE11,WA,-21.304,121.2,SAMN06710072,KJ505345.1
+WAMR_161003_Ct_duri,WAMR_161003,Ctenotus,duricola/piankai,pallasotus,,DRW08,WA,-21.063,116.234,,KJ505347.1
+WAMR_161147_Ct_duri,WAMR_161147,Ctenotus,duricola/piankai,duricola,,RHNE04,WA,-22.691,119.775,,KJ505348.1
+WAMR_161238_Ct_duri,WAMR_161238,Ctenotus,duricola/piankai,duricola,,DRE10,WA,-20.92,117.861,,KJ505349.1
+WAMR_161400_Ct_duri,WAMR_161400,Ctenotus,duricola/piankai,duricola,,PHYC09,WA,-20.896,119.602,,KJ505351.1
+WAMR_161462_Ct_duri,WAMR_161462,Ctenotus,duricola/piankai,duricola,duricola,PHYC05,WA,-20.935,119.858,SAMN06710073,KJ505352.1
+WAMR_161702_Ct_duri,WAMR_161702,Ctenotus,duricola/piankai,duricola,pallasotus,PHYW04,WA,-20.261,119.42,SAMN06710074,KJ505354.1
+WAMR_162334_Ct_duri,WAMR_162334,Ctenotus,duricola/piankai,duricola,duricola,RHNE11,WA,-22.095,119.753,SAMN06710075,KJ505355.1
+WAMR_163137_Ct_duri,WAMR_163137,Ctenotus,duricola/piankai,pallasotus,,WYE07,WA,-22.419,115.838,,KJ505357.1
+WAMR_170013_Ct_duri,WAMR_170013,Ctenotus,duricola/piankai,duricola,,MBW09,WA,-21.128,118.689,,KJ505360.1
+WAMR_170291_Ct_duri,WAMR_170291,Ctenotus,duricola/piankai,pallasotus,pallasotus,TCMBC03,WA,-23.34,117.801,SAMN06710084,KJ505362.1
+WAMR_170467_Ct_duri,WAMR_170467,Ctenotus,duricola/piankai,duricola,duricola,BDRS11,WA,-23.499,120.291,SAMN06710085,KJ505363.1
+WAMR_170727_Ct_duri,WAMR_170727,Ctenotus,duricola/piankai,pallasotus,,OYE03,WA,-21.633,116.492,,KJ505366.1
+WAMR_170844_Ct_duri,WAMR_170844,Ctenotus,duricola/piankai,duricola,,MBE13,WA,-21.156,119.356,,KJ505367.1
+WAMR_110222_Ct_duri,WAMR_110222,Ctenotus,duricola/piankai,pallasotus,pallasotus,PW12,WA,-21.384,117.061,SAMN06709973,KJ505289.1
+WAMR_160055_Ct_duri,WAMR_160055,Ctenotus,duricola/piankai,piankai,,NE13,WA,-21.296,121.264,,KJ505344.1
+CUMV_14370_Ct_dux,CUMV_14370,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709528,KJ505369.1
+CUMV_14371_Ct_dux,CUMV_14371,Ctenotus,dux,dux,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505370.1
+CUMV_14373_Ct_dux,CUMV_14373,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709529,KJ505371.1
+CUMV_14374_Ct_dux,CUMV_14374,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709530,KJ505372.1
+CUMV_14364_Ct_dux,CUMV_14364,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709524,KJ505373.1
+CUMV_14365_Ct_dux,CUMV_14365,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709525,KJ505374.1
+CUMV_14366_Ct_dux,CUMV_14366,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709526,KJ505375.1
+CUMV_14367_Ct_dux,CUMV_14367,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN20838008,KJ505376.1
+CUMV_14368_Ct_dux,CUMV_14368,Ctenotus,dux,dux,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505377.1
+CUMV_14369_Ct_dux,CUMV_14369,Ctenotus,dux,dux,dux,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709527,KJ505378.1
+CUMV_14375_Ct_dux,CUMV_14375,Ctenotus,dux,dux,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505379.1
+SAMR_29864_Ct_dux,SAMR_29864,Ctenotus,dux,dux,,Curtin Springs,NT,-25.192,131.6167,,KJ505884.1
+NA_ABTC10335_Ct_dux,,Ctenotus,dux,dux,,Ethabuka Station,QLD,,,,KJ505885.1
+NA_ABTC10338_Ct_dux,,Ctenotus,dux,dux,,Carlo HS,QLD,,,,KJ505886.1
+SAMR_36098_Ct_dux,SAMR_36098,Ctenotus,dux,dux,dux,Yulara,NT,-25.233,131.0167,SAMN06709830,KJ505887.1
+SAMR_42036_Ct_dux,SAMR_42036,Ctenotus,dux,dux,,13k SSE Illintjitja,SA,-26.284,130.3972,,KJ505888.1
+SAMR_42034_Ct_dux,SAMR_42034,Ctenotus,dux,dux,dux,10k S Illintjitja,SA,-26.26,130.3853,SAMN06709841,KJ505889.1
+SAMR_44387_Ct_dux,SAMR_44387,Ctenotus,dux,dux,dux,19.5k NE Mt Cooparinna,SA,-26.247,130.1122,SAMN06709851,KJ505890.1
+SAMR_46165_Ct_dux,SAMR_46165,Ctenotus,dux,dux,dux,23k NW Kunytjanu,SA,-26.517,129.2019,SAMN06709863,KJ505891.1
+SAMR_48756_Ct_dux,SAMR_48756,Ctenotus,dux,dux,impar,3.1k WNW Mt Lindsay,SA,-27.019,129.8503,TBD,KJ505892.1
+SAMR_45608_Ct_dux,SAMR_45608,Ctenotus,dux,dux,dux,11.4k SE Maryinna Hill,SA,-27.043,131.2933,SAMN06709861,KJ505893.1
+SAMR_43843_Ct_dux,SAMR_43843,Ctenotus,dux,dux,,1-2k E Serpentine Lakes,SA,-28.5,129.0333,,KJ505894.1
+SAMR_56476_Ct_dux,SAMR_56476,Ctenotus,dux,dux,dux,7.4k ESE Mount Hoare,SA,-27.077,129.7728,SAMN06709909,KJ505895.1
+WAMR_166441_Ct_dux,WAMR_166441,Ctenotus,dux,dux,dux,4.2k SSE Pungkulpirri Waterhole,WA,-24.6964,128.7628,SAMN06710082,KJ505896.1
+SAMR_62083_Ct_dux,SAMR_62083,Ctenotus,dux,dux,,"12.2k N Pungkulpirri Waterhole, Walter James Range",WA,-24.5594,128.7097,,KJ505897.1
+WAMR_166442_Ct_dux,WAMR_166442,Ctenotus,dux,dux,,5.3k SSE Pungkulpirri Waterhole,WA,-24.7072,128.7603,,KJ505898.1
+SAMR_62062_Ct_dux,SAMR_62062,Ctenotus,dux,dux,dux,5.3k SSE Pungkulpirri Waterhole,WA,-24.7072,128.7603,SAMN20838094,KJ505899.1
+SAMR_62031_Ct_dux,SAMR_62031,Ctenotus,dux,dux,dux,"3.2k N Pungkulpirri Waterhole, Walter James Range",WA,-24.6286,128.7556,SAMN06709917,KJ505900.1
+SAMR_62262_Ct_dux,SAMR_62262,Ctenotus,dux,dux,,181k SSW Watarru,SA,-28.499167,129.041389,,KJ505901.1
+SAMR_62379_Ct_dux,SAMR_62379,Ctenotus,dux,dux,dux,165k SSE Watarru,SA,-28.53196,129.95754,SAMN20838095,KJ505902.1
+SAMAR_57212_Ct_dux,SAMAR_57212,Ctenotus,dux,dux,dux,23.9k E Vokes Hill Corner,SA,-28.57111,130.9253,SAMN20838056,TBD
+SAMR_48588_Ct_dux,SAMR_48588,Ctenotus,dux,dux,dux,4.5k NE Mt Cheesman,SA,-27.374,130.3622,SAMN06709870,TBD
+SAMAR_48573_Ct_dux,SAMAR_48573,Ctenotus,dux,dux,dux,13.2k NW Mt Cheesman,SA,-27.33583,130.2261,SAMN06709791,TBD
+CUMV_14357_Ct_dux,CUMV_14357,Ctenotus,dux,dux,dux,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,SAMN06709522,KJ504906.1
+CUMV_14361_Ct_dux,CUMV_14361,Ctenotus,dux,dux,dux,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,SAMN20838007,TBD
+CUMV_14362_Ct_dux,CUMV_14362,Ctenotus,dux,dux,dux,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,SAMN06709523,TBD
+SAMAR_29946_Ct_dux,SAMAR_29946,Ctenotus,dux,dux,dux,Curtin Springs,NT,-25.5,131.8167,SAMN06709726,TBD
+QMJ_62380_Ct_dux,QMJ_62380,Ctenotus,dux,dux,dux,Ethabuka Station,QLD,-23.83333,138.0833,SAMN06709715,TBD
+CUMV_14363_Ct_dux,CUMV_14363,Ctenotus,dux,dux,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14805_Ct_dux,CUMV_14805,Ctenotus,dux,dux,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14806_Ct_dux,CUMV_14806,Ctenotus,dux,dux,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14807_Ct_dux,CUMV_14807,Ctenotus,dux,dux,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14808_Ct_dux,CUMV_14808,Ctenotus,dux,dux,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14306_Ct_gran,CUMV_14306,Ctenotus,grandis,grandis,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505385.1
+CUMV_14308_Ct_gran,CUMV_14308,Ctenotus,grandis,grandis,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505386.1
+NA_DLR0606_Ct_gran,,Ctenotus,grandis,grandis,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505387.1
+CUMV_14312_Ct_gran,CUMV_14312,Ctenotus,grandis,grandis,grandis,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709521,KJ505388.1
+CUMV_14307_Ct_gran,CUMV_14307,Ctenotus,grandis,grandis,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505389.1
+WAMR_94606_Ct_gran,WAMR_94606,Ctenotus,grandis,grandis,,Millstream,WA,,,,KJ505908.1
+WAMR_106265_Ct_gran,WAMR_106265,Ctenotus,grandis,grandis,,Woodstock Station,SA,,,,KJ505909.1
+SAMR_48698_Ct_gran,SAMR_48698,Ctenotus,grandis,ariadnae,hanloni,1.8k NNW Mt Lindsay,SA,-27.014,129.87,SAMN06709871,KJ505911.1
+SAMR_48821_Ct_gran,SAMR_48821,Ctenotus,grandis,grandis,grandis,12.2k NW Mt Cheesman,SA,-27.337,130.2375,SAMN06709875,KJ505912.1
+SAMR_62134_Ct_gran,SAMR_62134,Ctenotus,grandis,grandis,,18.4k NE Blackstone,WA,-25.8917,128.4269,,KJ505913.1
+CUMV_14305_Ct_gran,CUMV_14305,Ctenotus,grandis,grandis,grandis,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,SAMN06709520,KJ504916.1
+UMMZ_242613_Ct_gran,UMMZ_242613,Ctenotus,grandis,grandis,grandis,"Carranya Station, Western Australia",WA,-19.2393,127.82636,SAMN06709935,TBD
+UMMZ_242608_Ct_gran,UMMZ_242608,Ctenotus,grandis,grandis,grandis,"Dampier Downs Station, Western Australia",WA,-18.13731,123.52986,SAMN06709933,TBD
+UMMZ_242609_Ct_gran,UMMZ_242609,Ctenotus,grandis,grandis,grandis,"Dampier Downs Station, Western Australia",WA,-18.11428,123.55069,SAMN06709934,TBD
+WAMR_158380_Ct_hanl,WAMR_158380,Ctenotus,hanloni,hanloni,hanloni,GIRALIA,WA,-22.734,114.436667,SAMN06710068,KJ505013.1
+WAMR_157583_Ct_hanl,WAMR_157583,Ctenotus,hanloni,hanloni,hanloni,PANNAWONICA,WA,-21.748,116.075278,SAMN06710062,KJ505390.1
+WAMR_157205_Ct_iape,WAMR_157205,Ctenotus,iapetus,iapetus,iapetus,YANREY,WA,-22.329,114.440278,SAMN06710058,KJ505015.1
+WAMR_139532_Ct_iape,WAMR_139532,Ctenotus,iapetus,iapetus,iapetus,GIRALIA,WA,-22.753,114.513889,SAMN06710026,KJ505482.1
+NA_ABTC63091_Ct_iape,,Ctenotus,iapetus,iapetus,,Carnarvon Basin Survey,WA,,,,KJ505931.1
+NA_ABTC63107_Ct_iape,,Ctenotus,iapetus,iapetus,,Carnarvon Basin Survey,WA,,,,KJ505932.1
+NA_ABTC63109_Ct_iape,,Ctenotus,iapetus,iapetus,,Carnarvon Basin Survey,WA,,,,KJ505933.1
+NA_ABTC63116_Ct_iape,,Ctenotus,iapetus,iapetus,,Carnarvon Basin Survey,WA,,,,KJ505934.1
+NA_ABTC63117_Ct_iape,,Ctenotus,iapetus,iapetus,,Carnarvon Basin Survey,WA,,,,KJ505935.1
+WAMR_144222_Ct_impa,WAMR_144222,Ctenotus,impar,impar,impar,BANDALUP HILL,WA,-33.675,120.398333,SAMN06710035,KJ505016.1
+WAMR_104979_Ct_impa,WAMR_104979,Ctenotus,impar,impar,,9k N Truslove,NSW,,,,KJ505936.1
+SAMR_29480_Ct_impa,SAMR_29480,Ctenotus,impar,impar,impar,7k E Lort River,WA,-33.733,121.3333,SAMN06709820,KJ505937.1
+SAMR_29481_Ct_impa,SAMR_29481,Ctenotus,impar,impar,,7k E Lort River,WA,-33.733,121.3333,,KJ505938.1
+NA_CCM1470_Ct_inor,,Ctenotus,inornatus,rhabdotus,rhabdotus,Chamberlain valley woodland,WA,-17.2974,127.1902,SAMN06709652,TBD
+WAMR_158428_Ct_mary,WAMR_158428,Ctenotus,maryani,maryani,maryani,GIRALIA,WA,-22.701,114.490278,SAMN06710070,GQ241615.1
+WAMR_140983_Ct_mary,WAMR_140983,Ctenotus,maryani,maryani,maryani,URALA STATION,WA,-21.784,114.863889,SAMN06710028,KJ505513.1
+NA_ABTC23984_Ct_pian,,Ctenotus,piankai,piankai,,Uluru NP,NT,,,,KJ505557.1
+NTMR_23769_Ct_pian,NTMR_23769,Ctenotus,piankai,rhabdotus,,Wickham R Gregory NP,NT,-16.819,130.174167,,KJ505558.1
+SAMR_36192_Ct_pian,SAMR_36192,Ctenotus,piankai,piankai,piankai,Yulara,NT,-25.233,131.016667,SAMN06709831,KJ505559.1
+SAMR_48807_Ct_pian,SAMR_48807,Ctenotus,piankai,piankai,piankai,9.3k NNW Mt Cheesman SA,SA,-27.329,130.293333,SAMN06709874,KJ505560.1
+SAMR_45385_Ct_pian,SAMR_45385,Ctenotus,piankai,piankai,piankai,14.2k ESE Maryinna Hill,SA,-27.004,131.355,SAMN06709859,KJ505561.1
+CUMV_14416_Ct_pian,CUMV_14416,Ctenotus,piankai,piankai,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505562.1
+CUMV_14417_Ct_pian,CUMV_14417,Ctenotus,piankai,piankai,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505563.1
+NA_DLR0524_Ct_pian,,Ctenotus,piankai,piankai,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505564.1
+CUMV_14420_Ct_pian,CUMV_14420,Ctenotus,piankai,piankai,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505565.1
+CUMV_14418_Ct_pian,CUMV_14418,Ctenotus,piankai,piankai,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505566.1
+WAMR_102667_Ct_pian,WAMR_102667,Ctenotus,piankai,piankai,piankai,LITTLE SANDY DESERT,WA,-24.105,120.325,SAMN06709966,KJ505567.1
+WAMR_102691_Ct_pian,WAMR_102691,Ctenotus,piankai,piankai,,LITTLE SANDY DESERT,WA,-23.898,120.604167,,KJ505568.1
+WAMR_108934_Ct_pian,WAMR_108934,Ctenotus,piankai,piankai,,TELFER,WA,-21.883,122.3667,,KJ505569.1
+WAMR_108997_Ct_pian,WAMR_108997,Ctenotus,piankai,duricola,,LESLEY SALT WORKS,WA,-20.319,118.8972,,KJ505570.1
+WAMR_110581_Ct_pian,WAMR_110581,Ctenotus,piankai,rhabdotus,rhabdotus,TANAMI DESERT,WA,-19.58,128.8647,SAMN06709974,KJ505571.1
+WAMR_119711_Ct_pian,WAMR_119711,Ctenotus,piankai,rhabdotus,rhabdotus,EMMA GORGE,WA,-15.833,128.0333,SAMN06709988,KJ505572.1
+WAMR_119717_Ct_pian,WAMR_119717,Ctenotus,piankai,rhabdotus,,EMMA GORGE,WA,-15.833,128.033333,,KJ505573.1
+WAMR_120702_Ct_pian,WAMR_120702,Ctenotus,piankai,duricola,,BOODARIE STN,WA,-20.4,118.4667,,KJ505575.1
+WAMR_120731_Ct_pian,WAMR_120731,Ctenotus,piankai,duricola,,BOODARIE HILL,WA,-20.4,118.5167,,KJ505576.1
+WAMR_139048_Ct_pian,WAMR_139048,Ctenotus,piankai,piankai,,MANDORA,WA,-19.812,121.473611,,KJ505577.1
+WAMR_139087_Ct_pian,WAMR_139087,Ctenotus,piankai,piankai,,MANDORA,WA,-19.812,121.4736,,KJ505578.1
+WAMR_157412_Ct_pian,WAMR_157412,Ctenotus,piankai,rhabdotus,,TANAMI DESERT,WA,-19.58,128.8647,,KJ505580.1
+WAMR_157494_Ct_pian,WAMR_157494,Ctenotus,piankai,rhabdotus,,TANAMI DESERT,WA,-19.58,128.864722,,KJ505582.1
+WAMR_166456_Ct_pian,WAMR_166456,Ctenotus,piankai,piankai,piankai,"3.2k N Pungkulpirri Waterhole, Walter James Range",WA,-24.6286,128.7556,TBD,KJ505980.1
+CUMV_14423_Ct_pian,CUMV_14423,Ctenotus,piankai,piankai,piankai,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709538,KJ504944.1
+WAMR_119955_Ct_pian,WAMR_119955,Ctenotus,piankai,piankai,piankai,WOODIE WOODIE MINE,WA,-21.667,121.5833,SAMN06709990,KJ505574.1
+UMMZ_242644_Ct_pian,UMMZ_242644,Ctenotus,piankai,piankai,piankai,"Carranya Station, Western Australia",WA,-19.24218,127.79014,TBD,TBD
+NA_CCM2850_Ct_pian,,Ctenotus,piankai,rhabdotus,,Chamberlain Valley,WA,-17.167,127.318,,TBD
+NA_ABTC60807_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,30km SW Sangster's Bore,NT,,,,GQ241569.1
+CUMV_14827_Ct_quat,CUMV_14827,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,GQ241571.1
+CUMV_14372_Ct_quat,CUMV_14372,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,GQ241572.1
+CUMV_14817_Ct_quat,CUMV_14817,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,quattuordecimlineatus2,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,SAMN06709599,GQ241573.1
+CUMV_14818_Ct_quat,CUMV_14818,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,GQ241574.1
+CUMV_14819_Ct_quat,CUMV_14819,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,GQ241575.1
+CUMV_14822_Ct_quat,CUMV_14822,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,GQ241576.1
+CUMV_14846_Ct_quat,CUMV_14846,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,GQ241577.1
+CUMV_14847_Ct_quat,CUMV_14847,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,SAMN06709602,GQ241578.1
+WAMR_127432_Ct_quat,WAMR_127432,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,JOANNA SPRINGS,WA,-20.083,123.95,SAMN20838111,GQ241579.1
+WAMR_129972_Ct_quat,WAMR_129972,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,MOUNT JOEL,WA,-27.217,121.05,SAMN06710002,GQ241580.1
+WAMR_131053_Ct_quat,WAMR_131053,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,KIWIRRKURRA,WA,-22.817,127.75,SAMN06710004,GQ241581.1
+WAMR_131066_Ct_quat,WAMR_131066,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,KIWIRRKURRA,WA,-22.817,127.75,SAMN06710006,GQ241582.1
+WAMR_139086_Ct_quat,WAMR_139086,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,MANDORA,WA,-19.808,121.463889,SAMN06710015,GQ241583.1
+WAMR_145331_Ct_quat,WAMR_145331,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,CARNARVON RANGE,WA,-25.279,120.619167,SAMN06710037,GQ241584.1
+UMMZ_242645_Ct_quat,UMMZ_242645,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,"Carranya Station, Western Australia",WA,-19.2393,127.82636,SAMN06709949,KJ505047.1
+SAMR_43844_Ct_quat,SAMR_43844,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,quattuordecimlineatus1,1-2K E SERPENTINE LKS ACCESS RD,SA,-28.5,129.033333,SAMN20838076,KJ505584.1
+CUMV_14815_Ct_quat,CUMV_14815,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505585.1
+CUMV_14816_Ct_quat,CUMV_14816,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505586.1
+NA_DLR0342_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505587.1
+CUMV_14813_Ct_quat,CUMV_14813,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505588.1
+CUMV_14814_Ct_quat,CUMV_14814,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505589.1
+CUMV_14820_Ct_quat,CUMV_14820,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,quattuordecimlineatus2,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,SAMN06709600,KJ505590.1
+NA_DLR0422_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,KJ505591.1
+NA_DLR0424_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,KJ505592.1
+NA_DLR0433_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,KJ505593.1
+NA_DLR0434_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,KJ505594.1
+CUMV_14821_Ct_quat,CUMV_14821,Ctenotus,quattuordecimlineatus,quattuordecimlineatus4,,"Lake Mason Stn, Western Australia",WA,-27.586,119.5208,,KJ505595.1
+CUMV_14848_Ct_quat,CUMV_14848,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505596.1
+CUMV_14849_Ct_quat,CUMV_14849,Ctenotus,quattuordecimlineatus,dux,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505597.1
+CUMV_14823_Ct_quat,CUMV_14823,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505599.1
+NA_DLR0609_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505600.1
+CUMV_14824_Ct_quat,CUMV_14824,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505601.1
+CUMV_14825_Ct_quat,CUMV_14825,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,KJ505602.1
+WAMR_119963_Ct_quat,WAMR_119963,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,WOODIE WOODIE MINE,WA,-21.667,121.583333,,KJ505603.1
+SAMR_62051_Ct_quat,SAMR_62051,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,4.2k SSE Pungkulpirri Waterhole,WA,-24.6964,128.7628,,KJ505987.1
+WAMR_166458_Ct_quat,WAMR_166458,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,5.3k SSE Pungkulpirri Waterhole,WA,-24.7072,128.7603,,KJ505989.1
+SAMR_62065_Ct_quat,SAMR_62065,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,5.3k SSE Pungkulpirri Waterhole,WA,-24.7072,128.7603,,KJ505990.1
+SAMR_62052_Ct_quat,SAMR_62052,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,4.2k SSE Pungkulpirri Waterhole,WA,-24.6964,128.7628,,KJ505991.1
+SAMR_62088_Ct_quat,SAMR_62088,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,quattuordecimlineatus1,"12.2k N Pungkulpirri Waterhole, Walter James Range",WA,-24.5594,128.7097,SAMN06709918,KJ505992.1
+WAMR_166463_Ct_quat,WAMR_166463,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,"3.2k N Pungkulpirri Waterhole, Walter James Range",WA,-24.6286,128.7556,,KJ505993.1
+SAMR_62030_Ct_quat,SAMR_62030,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,"3.2k N Pungkulpirri Waterhole, Walter James Range",WA,-24.6286,128.7556,,KJ505994.1
+WAMR_166461_Ct_quat,WAMR_166461,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,18.4k NE Blackstone,WA,-25.8917,128.4269,,KJ505995.1
+WAMR_166460_Ct_quat,WAMR_166460,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,"Morgan Range, 18.5k ENE Blackstone",WA,-25.9306,128.4525,,KJ505996.1
+NA_ABTC91869_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,4.2k SSE Pungkulpirri Waterhole,WA,-24.6964,128.7628,,KJ505997.1
+NA_ABTC10336_Ct_quat,,Ctenotus,quattuordecimlineatus,dux,,Carlo Hstd,QLD,,,,TBD
+SAMR_36102_Ct_quat,SAMR_36102,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,Yulara,NT,-25.233,131.016667,,TBD
+WAMR_166459_Ct_quat,WAMR_166459,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,5.6k SE Mt Ant,WA,-24.8006,128.7972,,KJ505988.1
+NMVD_67946_Ct_quat,NMVD_67946,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,,22k W Erldunda Roadhouse,NT,,,,TBD
+SAMR_58939_Ct_quat,SAMR_58939,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,quattuordecimlineatus1,57.5 Km WNW Oak Valley,SA,-29.061,130.293889,SAMN06709914,TBD
+SAMR_48772_Ct_quat,SAMR_48772,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,quattuordecimlineatus1,6.4k W Mt Lindsay SA,SA,-27.027,129.815,SAMN06709873,TBD
+SAMR_44403_Ct_quat,SAMR_44403,Ctenotus,quattuordecimlineatus,quattuordecimlineatus2,quattuordecimlineatus1,8.5k NW Mt Kintore,SA,-26.503,130.428611,SAMN06709852,TBD
+NA_DLR0545_Ct_quat,,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Yamarna Stn, Western Australia",WA,-28.133,123.8667,,TBD
+CUMV_14809_Ct_quat,CUMV_14809,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14826_Ct_quat,CUMV_14826,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14828_Ct_quat,CUMV_14828,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14829_Ct_quat,CUMV_14829,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14830_Ct_quat,CUMV_14830,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14831_Ct_quat,CUMV_14831,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14832_Ct_quat,CUMV_14832,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14833_Ct_quat,CUMV_14833,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14834_Ct_quat,CUMV_14834,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14835_Ct_quat,CUMV_14835,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14836_Ct_quat,CUMV_14836,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14837_Ct_quat,CUMV_14837,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14838_Ct_quat,CUMV_14838,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14839_Ct_quat,CUMV_14839,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14840_Ct_quat,CUMV_14840,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14841_Ct_quat,CUMV_14841,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14842_Ct_quat,CUMV_14842,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14843_Ct_quat,CUMV_14843,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+CUMV_14844_Ct_quat,CUMV_14844,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,,"Lorna Glen Stn, Western Australia",WA,-26.226,121.5575,,TBD
+UMMZ_242646_Ct_quat,UMMZ_242646,Ctenotus,quattuordecimlineatus,quattuordecimlineatus3,quattuordecimlineatus1,"Carranya Station, Western Australia",WA,-19.22818,127.84773,SAMN06709950,TBD
+WAMR_139164_Ct_serv,WAMR_139164,Ctenotus,serventyi,serventyi,,DAMPIER,WA,-20.65,116.766667,,GQ241604.1
+WAMR_141304_Ct_serv,WAMR_141304,Ctenotus,serventyi,serventyi,,CAPE PRESTON,WA,-20.883,116.194722,,GQ241605.1
+UMMZ_242649_Ct_serv,UMMZ_242649,Ctenotus,serventyi,serventyi,serventyi,"Dampier Downs Station, Western Australia",WA,-18.13731,123.52986,SAMN06709952,TBD
+UMMZ_242650_Ct_serv,UMMZ_242650,Ctenotus,serventyi,serventyi,serventyi,"Dampier Downs Station, Western Australia",WA,-18.13731,123.52986,SAMN06709953,TBD
+WAMR_146045_Ct_serv,WAMR_146045,Ctenotus,serventyi,serventyi,serventyi,KIMBOLTON,WA,-16.747,123.795556,SAMN06710043,KJ505806.1
+WAMR_141025_Ct_xeno,WAMR_141025,Ctenotus,xenopleura,xenopleura,xenopleura,BUNGALBIN HILL,WA,-30.4,119.632778,SAMN06710029,KJ505049.1
+NA_YAMPSP064_Ct_yamp,,Ctenotus,yampiensis,yampiensis,,,,,,,TBD
+UMMZ_242655_Ct_zast,UMMZ_242655,Ctenotus,zastictus,zastictus,zastictus,Hamelin Station,WA,-26.5,114.2,SAMN06709956,GQ241565.1
+AMR_123129_Ct_zast,AMR_123129,Ctenotus,zastictus,zastictus,zastictus,Denham,WA,,,TBD,KJ505051.1
+UMMZ_242654_Ct_zast,UMMZ_242654,Ctenotus,zastictus,zastictus,zastictus,Hamelin Station,WA,-26.5,114.2,SAMN06709955,TBD
